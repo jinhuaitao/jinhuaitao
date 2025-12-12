@@ -1,15 +1,11 @@
-### 💬 System Message
+<div align="center">
+  <img src="https://i.pinimg.com/originals/2b/eb/02/2beb0274192dd7d110f00f01eb063b49.gif" width="100%" style="border-radius: 10px;" />
+  
+  <br/><br/>
 
-> **You have encountered a wild Developer!**
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,apple,windows&theme=dark" />
+  
+  <br/><br/>
 
-```bash
-$ echo "Hello World"
-> Hello World
-
-$ whoami
-> Just another open source enthusiast.
-
-$ cat /var/log/status
-> 🟢 Online
-> 🧠 Thinking...
-> ⌨️ Typing...
+  <p><i>Code is Poetry.</i></p>
+</div>
