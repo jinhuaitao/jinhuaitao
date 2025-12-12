@@ -28,7 +28,7 @@
 
 ### 🗺️ 冒险记录
 
-![我的GitHub数据](https://github-readme-streak-stats.herokuapp.com/?user=[你的用户名]&theme=highcontrast&hide_border=true)
+![我的GitHub数据](https://github-readme-streak-stats.herokuapp.com/?user=[jinhuaitao]&theme=highcontrast&hide_border=true)
 
 ---
 <div align="center">
