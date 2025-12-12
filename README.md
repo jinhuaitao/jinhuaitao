@@ -3,7 +3,7 @@
 
   <br/><br/>
 
-  <img src="https://progress-bar.dev/100/?scale=100&title=Nyanyanyanyanyanyanya&width=600&color=ff69b4&suffix=!" />
+
 
   <br/><br/>
 
