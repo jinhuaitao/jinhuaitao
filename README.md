@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/e8/1e/85/e81e85556209b552636d7a4c4e72304d.gif" width="100%" style="border-radius: 12px;"/>
+  <img src="https://media.giphy.com/media/tOTWvC75w0F26p6w2h/giphy.gif" width="100%" style="border-radius: 15px;" />
 
   <br/><br/>
 
-  <h3 style="color: #e0b0ff; font-family: monospace;">// NIGHT OWL SESSIONS</h3>
-  
+  <h3 style="font-family: serif; color: #5a4a42;">Stay Chill.</h3>
+
   <br/>
 
-  <img src="https://img.shields.io/badge/City-Never_Sleeps-blueviolet?style=plastic&logo=twitch&logoColor=white" />
-  <img src="https://img.shields.io/badge/System-Online-00ff00?style=plastic&logo=probot" />
+  <img src="https://img.shields.io/badge/Mood-Unbothered-orange?style=for-the-badge&logo=spa&logoColor=white" />
+  <img src="https://img.shields.io/badge/Status-Zen_Mode-green?style=for-the-badge&logo=leaf&logoColor=white" />
 </div>
