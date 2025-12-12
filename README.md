@@ -1,14 +1,12 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/90/a5/63/90a56396e676a66a3949852033620958.gif" width="100%" style="border-radius: 12px;"/>
+  <img src="https://i.pinimg.com/originals/e8/1e/85/e81e85556209b552636d7a4c4e72304d.gif" width="100%" style="border-radius: 12px;"/>
 
   <br/><br/>
 
-  <h3 style="color: #a5d8ff; letter-spacing: 5px;">STAY FROSTY</h3>
+  <h3 style="color: #e0b0ff; font-family: monospace;">// NIGHT OWL SESSIONS</h3>
   
-  <p style="color: #888;"><i>In the middle of difficulty lies opportunity.</i></p>
-
   <br/>
 
-  <img src="https://img.shields.io/badge/Focus-100%25-a5d8ff?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Temperature-Zero-white?style=for-the-badge&logo=snowflake&logoColor=blue" />
+  <img src="https://img.shields.io/badge/City-Never_Sleeps-blueviolet?style=plastic&logo=twitch&logoColor=white" />
+  <img src="https://img.shields.io/badge/System-Online-00ff00?style=plastic&logo=probot" />
 </div>
