@@ -18,16 +18,7 @@
 
   <br/>
 
-  <table align="center">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=[jinhuaitao]&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" height="150" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[jinhuaitao]&layout=compact&theme=radical&hide_border=true&bg_color=00000000" height="150" />
-      </td>
-    </tr>
-  </table>
+
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2387,100:F27121&height=100&section=footer" width="100%" />
 </div>
