@@ -1,12 +1,12 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/3b/84/e0/3b84e0bbe94665dfb634860b96bb6b48.gif" width="100%" style="border-radius: 12px;"/>
+  <img src="https://media.giphy.com/media/l2Je66zG6mAAZxgqI/giphy.gif" width="100%" style="border-radius: 12px;"/>
 
   <br/><br/>
 
-  <h3 style="color: #ffb7c5; font-family: serif;">🌸 Bloom where you are planted.</h3>
+  <h3 style="color: #0077be; letter-spacing: 2px;">🌊 DEEP DIVE INTO CODE</h3>
 
   <br/>
 
-  <img src="https://img.shields.io/badge/Mood-Hopeful-ffb7c5?style=for-the-badge&logo=cherry-blossom&logoColor=white" />
-  <img src="https://img.shields.io/badge/Season-Spring-ff69b4?style=for-the-badge&logo=leaf&logoColor=white" />
+  <img src="https://img.shields.io/badge/Knowledge-Deep-blue?style=social" />
+  <img src="https://img.shields.io/badge/Status-Flow_State-0077be?style=social" />
 </div>
