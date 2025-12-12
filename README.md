@@ -1,36 +1,36 @@
-# 🏰 角色面板: [你的名字/ID]
-
-> **"并没有 Bug，那只是未被发现的隐藏关卡。"**
-
----
-
-### 📊 基础属性 (Stats)
-
-| 属性 | 等级 | 描述 |
-| :--- | :--- | :--- |
-| **职业** | `Lvl. 99 全栈法师` | 擅长防御 `NullPointer` 攻击 |
-| **MP (法力值)** | `☕☕☕☕☕` | 需要定期摄入咖啡因充能 |
-| **HP (生命值)** | `██░░░░░░░░` | 长期熬夜，血条告急 |
-| **武器** | `VS Code` | +50 自动补全, +10 语法高亮 |
-| **必杀技** | `sudo rm -rf /` | (警告：冷却时间极长，请勿轻易尝试) |
-
-### 🔮 技能树 (Skill Tree)
-
-- **元素魔法 (Frontend):**
-  - `React.js` (火系 - 容易过热)
-  - `Vue.js` (风系 - 轻量灵动)
-  - `Tailwind` (附魔 - 瞬间美化)
-
-- **黑魔法 (Backend):**
-  - `Node.js` (召唤术)
-  - `Python` (蛇语者)
-  - `Docker` (空间压缩术)
-
-### 🗺️ 冒险记录
-
-![我的GitHub数据](https://github-readme-streak-stats.herokuapp.com/?user=[jinhuaitao]&theme=highcontrast&hide_border=true)
-
----
 <div align="center">
-  <i>按下 Star ⭐ 键为该玩家投币续命</i>
+  <img src="https://i.pinimg.com/originals/af/8d/63/af8d63a477078732b79ff9d9fc60873f.gif" width="100%" style="border-radius:10px"/>
 </div>
+
+<h2 align="center">✨ Coding with Chill Vibes ✨</h2>
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>👨🏻‍💻 About Me</h3>
+      <ul>
+        <li>🔭 <b>Working on</b>: 有趣的开源小玩具</li>
+        <li>🌱 <b>Learning</b>: 如何不看文档写代码</li>
+        <li>🎧 <b>Vibing with</b>: Lo-Fi Hip Hop beats</li>
+        <li>⚡ <b>Fun fact</b>: 可以在没有任何报错的情况下盯着屏幕发呆 2 小时</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚀 My Activity</h3>
+      <img src="https://github.com/[jinhuaitao]/[jinhuaitao]/blob/output/github-contribution-grid-snake.svg" alt="需要配置Action才能动，详见下文提示" width="100%"/>
+      </td>
+  </tr>
+</table>
+
+<div align="center">
+  <h3>🌈 Languages</h3>
+  <p>
+    <img src="https://skillicons.dev/icons?i=js,ts,react,vue,py,rust,docker,vscode&theme=light" />
+  </p>
+</div>
+
+<hr/>
+
+<p align="center">
+  <i>"Code is poetry, but compiling is reality."</i> 🥀
+</p>
