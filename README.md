@@ -1,11 +1,13 @@
 <div align="center">
-  <img src="https://i.pinimg.com/originals/11/1d/43/111d43ebeb45c4793b5a772c5448ce83.gif" width="100%" style="border-radius: 10px;" />
+  <img src="https://media.giphy.com/media/U3qYN8S0j3bpK/giphy.gif" width="100%" style="border-radius: 10px;" />
 
-  <h2 style="font-family: sans-serif; letter-spacing: 4px;">DISCONNECT TO RECONNECT</h2>
+  <br/><br/>
+  
+  <h3 style="color: #8A2BE2;">✨ Exploring the Universe of Code ✨</h3>
   
   <br/>
   
-  <img src="https://img.shields.io/badge/Keep-Calm-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/And-Code_On-blue?style=for-the-badge" />
-
+  <img src="https://img.shields.io/badge/Location-Earth-blue?style=pill&logo=google-earth&logoColor=white" />
+  <img src="https://img.shields.io/badge/Destination-Mars-red?style=pill&logo=spacex&logoColor=white" />
+  
 </div>
