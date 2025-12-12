@@ -1,12 +1,14 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="100%" style="border-radius: 12px;"/>
+  <img src="https://i.pinimg.com/originals/90/a5/63/90a56396e676a66a3949852033620958.gif" width="100%" style="border-radius: 12px;"/>
 
   <br/><br/>
 
-  <h3 style="color: #4caf50; font-family: cursive;">🍃 Breathe in, Code out.</h3>
+  <h3 style="color: #a5d8ff; letter-spacing: 5px;">STAY FROSTY</h3>
   
+  <p style="color: #888;"><i>In the middle of difficulty lies opportunity.</i></p>
+
   <br/>
 
-  <img src="https://img.shields.io/badge/Vibe-Peaceful-98fb98?style=flat-square&logo=evernote&logoColor=green" />
-  <img src="https://img.shields.io/badge/World-Open_Source-green?style=flat-square&logo=github" />
+  <img src="https://img.shields.io/badge/Focus-100%25-a5d8ff?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Temperature-Zero-white?style=for-the-badge&logo=snowflake&logoColor=blue" />
 </div>
