@@ -1,38 +1,50 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=50&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=500&lines=SYSTEM+BOOTING...;LOADING+PROFILE.EXE...;WELCOME+USER!" />
-</div>
+# 🌑 漆黑的终端
 
-<div style="border: 4px solid #c0c0c0; background-color: #c0c0c0; padding: 10px;">
-  
-  <div style="background-color: #000080; color: white; padding: 5px; font-weight: bold; font-family: monospace;">
-    C:\Users\Admin\Profile.exe
-  </div>
-  
-  <div style="background-color: white; padding: 20px; font-family: monospace; color: black;">
-    <p><b>> WHOAMI</b></p>
-    <p>Name: [蚂蚁踩死大象🐘]</p>
-    <p>Class: Cyber_Wizard</p>
-    <p>Location: 127.0.0.1</p>
-    <br/>
-    
-    <p><b>> SKILLS_LOADING... [||||||||||] 100%</b></p>
-    <img src="https://skillicons.dev/icons?i=c,cpp,cs,java,php,html,css&theme=light" />
-    
-    <br/><br/>
-    <p><b>> ERROR LOG:</b></p>
-    <p style="color: red;">[CRITICAL] Coffee level is low.</p>
-    <p style="color: red;">[WARNING] Sleep cycle not found.</p>
-  </div>
-  
-  <br/>
-  
-  <div align="center">
-    <a href="#">
-      <img src="https://img.shields.io/badge/CLICK_ME_TO_FIX_BUGS-gray?style=for-the-badge&logo=windows95&logoColor=black&labelColor=silver" />
-    </a>
-  </div>
+你站在一个闪烁的光标前。四周一片漆黑，只有屏幕发出的微光。
+屏幕上显示着：`USER: [你的名字]`。
 
-</div>
+你决定：
 
-<br/>
-<img src="https://user-images.githubusercontent.com/74038190/212281775-b46ebc37-9759-4674-95e2-04c3cf7e52a9.gif" width="100%" />
+### [👉 查看源代码 (About Me)](#-源代码-about-me)
+### [👉 检查背包 (Tech Stack)](#-背包-inventory)
+### [👉 挑战 Boss (Projects)](#-挑战-boss-projects)
+### [👉 逃离这里 (Contact)](#-逃离-contact)
+
+<br/><br/><br/><br/><br/>
+
+---
+<a name="-源代码-about-me"></a>
+## 📜 源代码 (About Me)
+你输入了 `whoami`。
+系统回应：
+> 这是一个迷失在代码世界的全栈旅行者。
+> 喜欢熬夜，靠咖啡因维持生命体征。
+
+[🔙 返回主菜单](#-漆黑的终端)
+
+---
+<a name="-背包-inventory"></a>
+## 🎒 背包 (Inventory)
+你打开了背包，里面装着：
+- 🗡️ **语言**: `Python`, `JavaScript`, `Go`
+- 🛡️ **框架**: `React`, `Django`
+- 🔮 **神器**: `VS Code`, `Copilot`
+
+[🔙 返回主菜单](#-漆黑的终端)
+
+---
+<a name="-挑战-boss-projects"></a>
+## 👹 挑战 Boss (Projects)
+你面前出现了几只巨大的怪兽：
+1. **The Blog Monster**: 一个基于 Next.js 的静态博客。
+2. **The E-Commerce Dragon**: 一个未完成的商城项目。
+
+[🔙 返回主菜单](#-漆黑的终端)
+
+---
+<a name="-逃离-contact"></a>
+## 🏃 逃离 (Contact)
+如果你想联系这位玩家，请发送信号至：
+`your-email@gmail.com`
+
+[🔙 返回主菜单](#-漆黑的终端)
