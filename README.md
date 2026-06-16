@@ -1,41 +1,40 @@
-<!-- 顶部：大气的星空动态波浪横幅 -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=System_Halted&fontSize=50&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=A%20fatal%20exception%20has%20occurred&descAlignY=55&descSize=16" width="100%" alt="Premium Header" />
-
 <div align="center">
 
+  <!-- 顶部留白，增加呼吸感 -->
+  <br/>
+
+  <!-- 核心动图：居中并优化了尺寸，移除易失效的复杂 CSS 阴影 -->
+  <img src="https://media.giphy.com/media/JtBZm3Getg3dq/giphy.gif" width="280" alt="Infinite Loop Animation" />
+
   <br/><br/>
 
-  <!-- 核心动图：保留了你原始的旋转动图，适当缩小尺寸以提升精致感 -->
-  <img src="https://media.giphy.com/media/JtBZm3Getg3dq/giphy.gif" width="220" alt="Infinite Loop Spinning" />
-
-  <br/><br/>
-
-  <!-- 大气极简的排版：增加字间距（letter-spacing），使用高级无衬线字体 -->
-  <h2 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif; font-weight: 300; letter-spacing: 4px; color: #444;">
-    <b>RUNTIME ERROR:</b> INFINITE LOOP
+  <!-- 主标题：采用极其简洁的无衬线排版，使用管道符增加高级感 -->
+  <h2 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 600; color: #24292f;">
+    SYSTEM &nbsp;|&nbsp; INFINITE LOOP
   </h2>
 
-  <!-- 经典的强制退出提示：完美呈现键盘质感 -->
-  <p style="font-family: 'SF Pro Display', sans-serif; font-size: 18px; color: #777; margin-top: 15px;">
-    To restore balance, press <kbd>CTRL</kbd> + <kbd>C</kbd> to Exit
+  <!-- 副标题：标准化的按键提示，柔和的灰色字体 -->
+  <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; color: #57606a; font-size: 16px; margin-top: 10px;">
+    Initiating safe protocol... Press <kbd>CTRL</kbd> + <kbd>C</kbd> to Exit.
   </p>
 
-  <br/><br/>
+  <br/>
 
-  <!-- 高级定制版徽章：采用暗黑极简风 (111111背景色)，点缀官方Logo颜色 -->
+  <!-- 徽章区：采用最稳定的 for-the-badge 风格，统一高度和视觉重心 -->
   <p>
-    <img src="https://img.shields.io/badge/Status-Loop_Infinite-111111?style=for-the-badge&logo=alltrails&logoColor=white" alt="Loop Infinite" />
-    <img src="https://img.shields.io/badge/Exception-Stack_Overflow-111111?style=for-the-badge&logo=stackoverflow&logoColor=F48024" alt="Stack Overflow" />
+    <img src="https://img.shields.io/badge/Status-Infinite_Loop-1A1A1A?style=for-the-badge&logo=loop&logoColor=white" alt="Loop Infinite" />
+    <img src="https://img.shields.io/badge/Warning-Stack_Overflow-E34F26?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
   </p>
 
-  <br/><br/>
-
-  <!-- 优雅的渐变褪色分割线，完美收尾 -->
-  <img src="https://user-images.githubusercontent.com/73097560/203264426-382906b3-6c8f-4315-9988-bc02722180fe.png" width="70%" alt="Divider" />
+  <!-- 底部留白 -->
+  <br/>
 
 </div>
 
-<!-- 隐形追踪像素：彻底将其宽高设为0并隐藏，完全不干扰上方的高级排版 -->
-<div align="center">
-  <img src="https://logs.chinajht.eu.org/pixel.gif?t=1773718989371" width="0" height="0" style="display:none;" alt="Tracking Pixel" />
-</div>
+<!-- 
+  零 BUG 追踪像素：
+  1. 使用 W3C 标准的 width="0" height="0"
+  2. 双重隐藏样式：display: none; visibility: hidden;
+  3. 防止出现图片加载失败的破碎图标（破图 BUG）
+-->
+<img src="https://logs.chinajht.eu.org/pixel.gif?t=1773718989371" width="0" height="0" style="display: none; visibility: hidden;" alt="" />
