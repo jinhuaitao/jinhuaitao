@@ -1,28 +1,36 @@
 <div align="center">
 
-  <br/>
-
-  <img src="https://media.giphy.com/media/JtBZm3Getg3dq/giphy.gif" width="280" alt="Infinite Loop Animation" />
-
-  <br/><br/>
-
-  <h2 style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; font-weight: 600; color: #24292f;">
-    SYSTEM &nbsp;|&nbsp; INFINITE LOOP
-  </h2>
-
-  <p style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; color: #57606a; font-size: 16px; margin-top: 10px;">
-    Emergency override required. Press <kbd>CTRL</kbd> + <kbd>C</kbd> to abort.
-  </p>
+  <!-- 动态打字机效果（这会像真实终端一样一行行打字出特效） -->
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=27AE60&center=true&vCenter=true&width=600&lines=>_+Initializing+core_system.sh...;>_+WARNING:+Infinite+loop+detected!;>_+FATAL_ERROR:+Stack+Overflow;>_+Press+[CTRL]+%2B+[C]+to+force+quit_..." alt="Terminal Animation" />
+  </a>
 
   <br/>
 
+  <!-- 终端状态栏 -->
+  <h3 style="color: #abb2bf; font-family: 'Courier New', monospace;">
+    <code>&gt; System_Status: <span style="color: #e06c75;">HALTED</span> | Brain: <span style="color: #98c379;">Compiling...</span></code>
+  </h3>
+
+  <br/>
+
+  <!-- 全新的幽默徽章墙 -->
   <p>
-    <img src="https://img.shields.io/badge/Status-Infinite_Loop-1A1A1A?style=for-the-badge&logo=loop&logoColor=white" alt="Loop Infinite" />
-    <img src="https://img.shields.io/badge/Warning-Stack_Overflow-E34F26?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+    <img src="https://img.shields.io/badge/Brain-Syntax_Error-E34F26?style=for-the-badge&logo=esbuild&logoColor=white" alt="Syntax Error" />
+    <img src="https://img.shields.io/badge/Coffee-Empty-6F4E37?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Coffee Empty" />
+    <img src="https://img.shields.io/badge/Sleep-404_Not_Found-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Sleep 404" />
   </p>
 
   <br/>
+
+  <!-- 极客名言 -->
+  <p style="font-family: monospace; color: #888; font-size: 14px;">
+    <i>"I turn coffee into bugs, and bugs into more bugs."</i>
+  </p>
 
 </div>
 
-<img src="https://logs.chinajht.eu.org/pixel.gif?t=1773718989371" width="0" height="0" style="display: none; visibility: hidden;" alt="" />
+<!-- 你的追踪像素依然隐蔽地保留着 -->
+<div style="display: none;">
+  <img src="https://logs.chinajht.eu.org/pixel.gif?t=1773718989371" alt="Tracking Pixel" />
+</div>
