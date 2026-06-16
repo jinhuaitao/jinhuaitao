@@ -1,36 +1,49 @@
 <div align="center">
 
-  <!-- 动态打字机效果（这会像真实终端一样一行行打字出特效） -->
-  <a href="#">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=800&color=27AE60&center=true&vCenter=true&width=600&lines=>_+Initializing+core_system.sh...;>_+WARNING:+Infinite+loop+detected!;>_+FATAL_ERROR:+Stack+Overflow;>_+Press+[CTRL]+%2B+[C]+to+force+quit_..." alt="Terminal Animation" />
+  <!-- 动态打字机：赛博朋克青色主题 -->
+  <a href="https://github.com/">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=00F0FF&center=true&vCenter=true&width=800&lines=>_+Initializing+Core_System.sh...;>_+WARNING:+Infinite_Loop_Detected!;>_+FATAL:+Stack_Overflow_in_Sector_7;>_+Press+[CTRL]+%2B+[C]+to+abort..." alt="Terminal Animation" />
   </a>
 
-  <br/>
-
-  <!-- 终端状态栏 -->
-  <h3 style="color: #abb2bf; font-family: 'Courier New', monospace;">
-    <code>&gt; System_Status: <span style="color: #e06c75;">HALTED</span> | Brain: <span style="color: #98c379;">Compiling...</span></code>
-  </h3>
+  <!-- 炫酷的动态荧光分割线 -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
   <br/>
 
-  <!-- 全新的幽默徽章墙 -->
+  <!-- 核心状态机警告区 -->
+  <h2>
+    <code><span style="color: #ff003c;">&lt;!&gt; SYSTEM HALTED:</span> <span style="color: #00f0ff;">INFINITE_LOOP</span></code>
+  </h2>
+
+  <!-- 实体化键盘按键提示，保留原有精髓 -->
+  <p style="font-size: 1.2em; color: #8b949e;">
+    Press <kbd style="background-color: #21262d; color: #c9d1d9; border: 1px solid #30363d; border-radius: 6px; padding: 3px 6px;">CTRL</kbd> + <kbd style="background-color: #21262d; color: #c9d1d9; border: 1px solid #30363d; border-radius: 6px; padding: 3px 6px;">C</kbd> to Force Exit.
+  </p>
+
+  <br/>
+
+  <!-- 技能与状态徽章矩阵（融合了你原有的黑客元素） -->
+  <h3>💻 Core Modules 💻</h3>
   <p>
-    <img src="https://img.shields.io/badge/Brain-Syntax_Error-E34F26?style=for-the-badge&logo=esbuild&logoColor=white" alt="Syntax Error" />
-    <img src="https://img.shields.io/badge/Coffee-Empty-6F4E37?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Coffee Empty" />
-    <img src="https://img.shields.io/badge/Sleep-404_Not_Found-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Sleep 404" />
+    <img src="https://img.shields.io/badge/Status-Infinite_Loop-000000?style=for-the-badge&logo=spinrilla&logoColor=00F0FF" alt="Loop Infinite" />
+    <img src="https://img.shields.io/badge/Error-Stack_Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow" />
+    <img src="https://img.shields.io/badge/Coffee-Empty-6F4E37?style=for-the-badge&logo=coffeescript&logoColor=white" alt="Coffee" />
   </p>
 
   <br/>
 
-  <!-- 极客名言 -->
-  <p style="font-family: monospace; color: #888; font-size: 14px;">
-    <i>"I turn coffee into bugs, and bugs into more bugs."</i>
-  </p>
+  <!-- GitHub 数据统计卡片 (暗黑/霓虹主题) -->
+  <!-- ⚠️ 注意：请将 `?username=torvalds` 中的 torvalds 换成你自己的 GitHub 用户名 -->
+  <a href="https://github.com/">
+    <img src="https://github-readme-stats.vercel.app/api?username=torvalds&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="45%" />
+  </a>
+
+  <!-- 炫酷分割线收尾 -->
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 </div>
 
-<!-- 你的追踪像素依然隐蔽地保留着 -->
+<!-- 隐形追踪像素：使用 div 彻底隐藏，确保不破坏上方完美的布局 -->
 <div style="display: none;">
   <img src="https://logs.chinajht.eu.org/pixel.gif?t=1773718989371" alt="Tracking Pixel" />
 </div>
