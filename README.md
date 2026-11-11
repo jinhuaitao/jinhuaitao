@@ -3,7 +3,7 @@
      · 首屏  · 状态  · 关于  · 技术栈  · 数据(可选)  · 联系
      ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B37E,45:0084D1,100:7C3AED&height=190&section=header&text=Hello%2C%20World&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=System%20Administrator%20%C2%B7%20Multi-Platform%20Developer&descSize=15&descAlignY=62&animation=twinkling" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B37E,45:0084D1,100:7C3AED&height=190&section=header&text=Hello%2C%20World&fontSize=48&fontColor=ffffff&fontAlignY=44&animation=twinkling" width="100%" alt="header" />
 
 <div align="center">
 
@@ -74,11 +74,11 @@ $ echo $PHILOSOPHY
 
 ---
 
-<!-- ─────────────────────────────────────────────────────────────
-     📊 GitHub 数据卡片（可选）
+<!-- ═══════════════════════════════════════════════════════════════
+     📊 GitHub 数据卡片（可选，默认关闭）
      想启用：删掉本段注释的起止标记，并把 YOUR_USERNAME
      全部替换为你的 GitHub 用户名。
-     ─────────────────────────────────────────────────────────────
+     ═══════════════════════════════════════════════════════════════
 
 ## 📊 GitHub 数据
 
@@ -93,9 +93,7 @@ $ echo $PHILOSOPHY
 
 </div>
 
----
-
--->
+══════════════════════════════════════════════════════════════════ -->
 
 ## 📬 找到我
 
