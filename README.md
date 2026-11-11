@@ -1,14 +1,14 @@
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--  GitHub Profile README                                                  -->
-<!--  · 首屏 / 状态 / 关于 / 技术栈 / 数据 / 联系                            -->
-<!-- ═══════════════════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════
+     GitHub Profile README
+     · 首屏  · 状态  · 关于  · 技术栈  · 数据(可选)  · 联系
+     ═══════════════════════════════════════════════════════════════ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E08A,45:00B3FF,100:8A2BE2&height=200&section=header&text=Hello%2C%20World&fontSize=54&fontColor=ffffff&fontAlignY=40&desc=System%20Administrator%20%C2%B7%20Multi-Platform%20Developer&descSize=16&descAlignY=62&animation=twinkling" width="100%" alt="header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00B37E,45:0084D1,100:7C3AED&height=190&section=header&text=Hello%2C%20World&fontSize=52&fontColor=ffffff&fontAlignY=40&desc=System%20Administrator%20%C2%B7%20Multi-Platform%20Developer&descSize=15&descAlignY=62&animation=twinkling" width="100%" alt="header" />
 
 <div align="center">
 
 <a href="#">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00E08A&center=true&vCenter=true&width=760&height=60&lines=%3E_System.Boot()%3B;%3E_Loading_Core_Modules...;%3E_Initializing_Network_Relays...;%3E_FATAL_ERROR%3A+Coffee_Not_Found;%3E_Hello%2C+World." alt="typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&pause=1200&color=00B37E&center=true&vCenter=true&width=720&height=46&lines=%3E_System.Boot()%3B;%3E_Loading_Core_Modules...;%3E_Initializing_Network_Relays...;%3E_FATAL_ERROR%3A+Coffee_Not_Found;%3E_Hello%2C+World." alt="typing" />
 </a>
 
 ### ⚡ 编织代码，构建网络，偶尔写点 Bug
@@ -24,8 +24,6 @@
 <img src="https://img.shields.io/badge/SLEEP-404_NOT_FOUND-4B5563?style=for-the-badge&labelColor=0d1117&logo=gnubash&logoColor=ffffff" alt="sleep" />
 
 </div>
-
-<br />
 
 ---
 
@@ -45,24 +43,9 @@ $ echo $PHILOSOPHY
   "能跑就别动"  ——  但该重构的时候，一行都不留
 ```
 
-<br />
-
-<table align="center">
-  <tr>
-    <td align="center" width="33%">
-      <h3>🎯 在做</h3>
-      <sub>Serverless 架构<br />边缘网络与反向代理</sub>
-    </td>
-    <td align="center" width="33%">
-      <h3>🧪 在试</h3>
-      <sub>自建服务 · 自动化运维<br />干净到不需要说明书的界面</sub>
-    </td>
-    <td align="center" width="33%">
-      <h3>☕ 在喝</h3>
-      <sub>手冲 / 冷萃<br />以及凌晨三点的白开水</sub>
-    </td>
-  </tr>
-</table>
+| 🎯 在做 | 🧪 在试 | ☕ 在喝 |
+| :---: | :---: | :---: |
+| Serverless 架构<br>边缘网络与反向代理 | 自建服务 · 自动化运维<br>干净到不需要说明书的界面 | 手冲 / 冷萃<br>以及凌晨三点的白开水 |
 
 ---
 
@@ -70,50 +53,43 @@ $ echo $PHILOSOPHY
 
 <div align="center">
 
+<sub><b>语言 · 脚本</b></sub>
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,js,ts,nodejs,bash,python,cloudflare,docker,linux,nginx,git,github,vim,vscode,apple,windows&theme=dark" />
-  <img src="https://skillicons.dev/icons?i=go,js,ts,nodejs,bash,python,cloudflare,docker,linux,nginx,git,github,vim,vscode,apple,windows&theme=light" alt="skills" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=go,js,ts,nodejs,python,bash,vim&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=go,js,ts,nodejs,python,bash,vim&perline=7&theme=light" alt="languages" />
 </picture>
 
 <br />
 <br />
 
-<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="go" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="js" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="ts" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="cf" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="docker" />
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="linux" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="nginx" />
-<img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="bash" />
+<sub><b>基础设施 · 工具</b></sub>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=cloudflare,docker,linux,nginx,git,github,apple,windows&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cloudflare,docker,linux,nginx,git,github,apple,windows&perline=8&theme=light" alt="infra" />
+</picture>
 
 </div>
 
-<br />
-
-| 🧠 语言 | 🚀 基础设施 | 🧰 日常工具 |
-| :---: | :---: | :---: |
-| Go · JavaScript · TypeScript | Cloudflare · Docker · Linux | Git · Vim · VS Code |
-| Shell · 一点点 Python | Nginx · 反向代理 · 自建服务 | 终端里的一切 |
-
 ---
 
-<!-- ─────────────────────────────────────────────────────────────────────
+<!-- ─────────────────────────────────────────────────────────────
      📊 GitHub 数据卡片（可选）
-     使用方法：把下面这段 HTML 注释的起止标记删掉，并把 YOUR_USERNAME
-     全部替换成你的 GitHub 用户名，即可显示统计卡片。
-     ─────────────────────────────────────────────────────────────────────
+     想启用：删掉本段注释的起止标记，并把 YOUR_USERNAME
+     全部替换为你的 GitHub 用户名。
+     ─────────────────────────────────────────────────────────────
 
 ## 📊 GitHub 数据
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&title_color=00E08A&icon_color=8A2BE2&text_color=808080&bg_color=00000000&include_all_commits=true&count_private=true" alt="stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=00E08A&text_color=808080&bg_color=00000000&langs_count=8" alt="langs" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&title_color=00B37E&icon_color=8A2BE2&text_color=808080&bg_color=00000000&include_all_commits=true&count_private=true" alt="stats" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&title_color=00B37E&text_color=808080&bg_color=00000000&langs_count=8" alt="langs" />
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=00000000&stroke=00E08A&ring=8A2BE2&fire=F59E0B&currStreakLabel=00E08A" alt="streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true&background=00000000&stroke=00B37E&ring=8A2BE2&fire=F59E0B&currStreakLabel=00B37E" alt="streak" />
 
 </div>
 
@@ -130,15 +106,12 @@ $ echo $PHILOSOPHY
 <a href="#"><img src="https://img.shields.io/badge/Blog-随便写写-00B3FF?style=for-the-badge&labelColor=0d1117&logo=rss&logoColor=00B3FF" alt="blog" /></a>
 
 <br />
-<br />
 
 <sub>有问题随时开 Issue，我回复的速度取决于咖啡因浓度。</sub>
 
 </div>
 
-<br />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,55:00B3FF,100:00E08A&height=140&section=footer&text=Thanks%20for%20visiting&fontSize=28&fontColor=ffffff&fontAlignY=68&animation=twinkling" width="100%" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,55:0084D1,100:00B37E&height=140&section=footer&text=Thanks%20for%20visiting&fontSize=28&fontColor=ffffff&fontAlignY=68&animation=twinkling" width="100%" alt="footer" />
 
 <div align="center">
   <sub>⭐ 如果哪个仓库帮到了你，点个 Star 就是最好的咖啡</sub>
